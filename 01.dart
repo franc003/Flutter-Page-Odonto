@@ -1,3 +1,4 @@
+//app odonto con 2 botones ocn nada , 1 boton que redirije a otr apagina y campo para escrubir nombre y contraseña
 import 'package:flutter/material.dart';
 import 'package:flutter_application_1/pages/page02.dart';
 
